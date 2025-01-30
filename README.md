@@ -4,7 +4,7 @@ This Supermarket Billing System that allows users to generate bills based on a p
 This Python program is designed to simulate a billing system for a supermarket.
 
 # Features of the Supermarket Billing System
-**1 ****Predefined Product List**
+**1 Predefined Product List**
 ---The system contains a dictionary of products with their prices, making selection easy.
 
 **2 Customer Information Input**
