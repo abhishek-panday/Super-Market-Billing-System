@@ -21,7 +21,7 @@ This Python program is designed to simulate a billing system for a supermarket.*
 - The system likely displays a final bill showing the total amount payable.
 
 **6 Loop for Multiple Customers**
----The system runs in a loop, allowing continuous billing for multiple customers.
+- The system runs in a loop, allowing continuous billing for multiple customers.
 
 **7 Simple User Interaction**
----Works through basic user inputs and displays the bill in an easy-to-read format.
+- Works through basic user inputs and displays the bill in an easy-to-read format.
